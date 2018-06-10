@@ -1,7 +1,7 @@
 
 <footer>
       <div class="container">
-        <p style="position: relative; top: 15px;">FireflyCoin.ml &copy; 2018. All Rights Reserved.</p>
+        <p style="position: relative; top: 15px;">MLtrade.ml &copy; 2018. All Rights Reserved.</p>
         <ul class="list-inline" style="visibility:hidden">
           <li class="list-inline-item">
             <a href="#">Privacy</a>

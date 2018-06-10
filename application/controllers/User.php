@@ -77,11 +77,9 @@ public function register_user(){
         $cookieData = 000;
       }
       $user=array(
-        'user_id'=>$this->input->post('user_id'),
-        'user_name'=>$this->input->post('user_name'),
         'user_email'=>$this->input->post('user_email'),
-        'user_facebook'=>$this->input->post('user_facebook'),
         'user_twitter'=>$this->input->post('user_twitter'),
+        'user_medium' =>$this->input->post('user_medium'),
         'user_password'=>md5($this->input->post('user_password')),
         'reffered_by'=> $cookieData
         );

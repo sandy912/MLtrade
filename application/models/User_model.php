@@ -34,19 +34,5 @@ class User_model extends CI_model{
     }
   }
 
-//  public function wallet_check($wallet){
-
-  //  $this->db->select('*');
- //   $this->db->from('user');
- //   $this->db->where('user_wallet',$wallet);
-  //  $query=$this->db->get();
-
-  //  if($query->num_rows()>0){
-  //    return false;
-  //  }else{
-   //   return true;
-  //  }
- // }
-
 }
 ?>
