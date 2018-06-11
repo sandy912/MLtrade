@@ -5,7 +5,7 @@
       <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
       <!-- <meta name="twitter:card" content="summary_large_image" />
       <meta property="og:image" content="https://fireflycoin.ml/vendor/assets/Register-Banner1.png"> -->
-      <meta property="og:title" content="ML Trade - Get 100$ for free - World's First Margin-Less Crypto trading Platform">
+      <meta property="og:title" content="ML Trade - World's First Margin-Less Crypto trading Platform, Get 100$ as Early Bird Registration. HurryUp!!">
       <title>ML Trade - World's First Margin-less Crypto trading Platform</title>
       <link rel='shortcut icon' href='/favicon.png' type='image/x-icon' />
       <link rel="stylesheet" href="<?php echo base_url();?>vendor/bootstrap/css/bootstrap.min.css" media="screen" title="no title">
