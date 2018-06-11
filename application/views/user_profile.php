@@ -7,12 +7,15 @@ if(!$signedin){
 <?php $this->load->view('header'); ?>
 
 <header class="masthead mobile-panel">
+  <div class="container text-center">
+      <img alt="brand" src="<?php echo base_url(); ?>/img/mltrade-logo.png" style="width:90px;"/>
+  </div>
   <div class="container">
     <div class="row">
       <div class="register-panel" style="max-width: 550px;">
         <h4 class="text-center"><b>Thank you for showing your interest on ML Trade!</b></h4>
         <center>
-          <h5><b>Now refer your friends to get 100$ on each successful refferal.</b></h5>
+          <h5><b>Now refer your friends to get 100$ on every sucessfull refferal.</b></h5>
           There is no cap on amount of people you can refer but the early bird offer is only for first 5000 registrations
         </center>
         <br>

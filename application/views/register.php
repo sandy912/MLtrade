@@ -1,6 +1,9 @@
 <?php $this->load->view('header'); ?>
 
 <header class="masthead mobile-panel">
+  <div class="container text-center">
+      <img alt="brand" src="<?php echo base_url(); ?>/img/mltrade-logo.png" style="width:90px;"/>
+  </div>
   <div class="container">
     <div class="row">
       <div class="register-panel register">

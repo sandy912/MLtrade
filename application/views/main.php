@@ -1,6 +1,9 @@
 <?php $this->load->view('header'); ?>
 
 <header class="masthead">
+  <div class="container text-center">
+      <img alt="brand" src="<?php echo base_url(); ?>/img/mltrade-logo.png" style="width:90px;"/>
+  </div>
       <div class="container">
         <div class="row">
             <div class="header-content container-one">
@@ -12,7 +15,7 @@
             <div id="DateCountdown" data-date="2018-07-10 00:00:00" style="width:80%;">
 
           </div>
-          <p class="text-center">Free amount can be used to pay trading fees and buy newly launched eligible ERC-20 tokens. These tokens are subject to availability and first come first serve basis.</p>
+          <p class="text-center">Early Bird Bonus can be used to pay trading fees and buy newly launched eligible ERC-20 tokens. These tokens are subject to availability and first come first serve basis.</p>
         </div>
       </div>
 </header>

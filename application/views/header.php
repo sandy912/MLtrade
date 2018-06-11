@@ -18,8 +18,3 @@
       <link rel="stylesheet" type = "text/css" href="<?php echo base_url();?>js/inc/TimeCircles.css" >
     </head>
     <body id="page-top">
-    <nav class="fixed-top" style="padding: 20px;">
-      <div class="container text-center">
-          <img alt="brand" src="<?php echo base_url(); ?>/img/mltrade-logo.png" style="width:90px;"/>
-      </div>
-    </nav>
