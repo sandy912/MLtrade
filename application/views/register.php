@@ -37,14 +37,14 @@
                 <span>Twitter username</span>
               </label>
               <div>
-                You must follow <a href="https://twitter.com/MLTRADE1" target="_blank">ML Trade</a> on Twitter and stay until platform launch to receive early  bird offer!<br />
+                You must follow <a href="https://twitter.com/MLTRADE1" target="_blank">ML Trade</a> on Twitter and retweet the pinned post to receive the early bird offer!<br />
               </div>
             <label class="has-float-label">
               <input id="user_medium" name="user_medium" type="text" placeholder="@johndoe" required/>
               <span>Medium username</span>
             </label>
             <div>
-              You must follow <a href="https://medium.com/@mltradenews" target="_blank">ML Trade</a> on Medium and stay until platform launch to receive early bird offer!<br />
+              You must follow <a href="https://medium.com/@mltradenews" target="_blank">ML Trade</a> on Medium and give claps to receive early bird offer!<br />
             </div>
 
             <label class="has-float-label">
