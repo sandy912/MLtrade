@@ -44,7 +44,7 @@
               <span>Medium username</span>
             </label>
             <div>
-              You must follow <a href="https://medium.com/@mltradenews" target="_blank">ML Trade</a> on Medium and give claps to receive early bird offer!<br />
+              You must follow <a href="https://medium.com/@mltradenews" target="_blank">ML Trade</a> on Medium and give claps to receive the early bird offer!<br />
             </div>
 
             <label class="has-float-label">
