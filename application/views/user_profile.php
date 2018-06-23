@@ -56,7 +56,7 @@ if(!$signedin){
           </div>
 
           <br>
-          <p>In case if you missed to follow ML Trade on <a href="https://twitter.com/MLTRADE1" target="_blank">Twitter</a>, and <a href="https://medium.com/@mltradenews" target="_blank">Medium</a> during registration. Here are the links to do it now. Only those who follow our social media channels will get their balance reflected in our trading platform. Every registrations will be checked manually before processing</p>
+          <p>In case if you missed to follow ML Trade on <a href="https://twitter.com/MLTRADE2" target="_blank">Twitter</a><!--, and <a href="https://medium.com/@mltradenews" target="_blank">Medium</a> --> during registration. Here are the links to do it now. Only those who follow our social media channels will get their balance reflected in our trading platform. Every registrations will be checked manually before processing</p>
         </div>
       </div>
     </div>
